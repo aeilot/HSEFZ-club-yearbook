@@ -1,24 +1,24 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+  "name": "HSEFZ Club Yearbook",
+  "short_name": "Club Yearbook",
   "icons": [
     {
       "src": "/favicon.png",
       "type": "image/png",
-      "sizes": "32x32"
+      "sizes": "72x72"
     },
     {
-      "src": "/favicon-128x128.png",
+      "src": "/favicon-144x144.png",
       "type": "image/png",
-      "sizes": "128x128"
+      "sizes": "144x144"
     },
     {
-      "src": "/favicon-192x192.png",
+      "src": "/favicon-114x114.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "114x114"
     }
   ],
-  "theme_color": "#000000",
-  "background_color": "#000000",
+  "theme_color": "##C83232",
+  "background_color": "#FFFFFF",
   "display": "standalone"
 }
