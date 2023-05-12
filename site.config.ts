@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '华东师大二附中 社团年鉴',
+  name: '华东师大二附中社团年鉴',
   domain: 'hsefz.aeilot.top',
   author: '华东师大二附中',
 
   // open graph metadata (optional)
-  description: '华东师大二附中 社团机选网站',
+  description: '华东师大二附中社团年鉴',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
@@ -56,10 +56,6 @@ export default siteConfig({
     {
       title: 'About',
       pageId: 'ba97bc8084944418a969c3df1ec12c97'
-    },
-    {
-      title: 'Contact',
-      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
     }
   ]
 })
