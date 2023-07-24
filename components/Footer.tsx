@@ -40,7 +40,7 @@ export const FooterImpl: React.FC = () => {
       <div className={styles.settings}>
         {hasMounted && (
           <a
-            className={styles.toggleDarkMode}
+            className={styles.youtube}
             href='#'
             role='button'
             onClick={onToggleDarkMode}
