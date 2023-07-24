@@ -37,20 +37,6 @@ export const FooterImpl: React.FC = () => {
     <footer className={styles.footer}>
       <div className={styles.copyright}>华东师范大学第二附属中学版权所有</div>
 
-      <div className={styles.settings}>
-        {hasMounted && (
-          <a
-            className={styles.toggleDarkMode}
-            href='#'
-            role='button'
-            onClick={onToggleDarkMode}
-            title='Toggle dark mode'
-          >
-            {isDarkMode ? <IoMoonSharp /> : <IoSunnyOutline />}
-          </a>
-        )}
-      </div>
-
       <div className={styles.social}>
         {config.twitter && (
           <a
@@ -132,6 +118,20 @@ export const FooterImpl: React.FC = () => {
             rel='noopener noreferrer'
           >
             <FaYoutube />
+          </a>
+        )}
+      </div>
+
+      <div className={styles.settings}>
+        {hasMounted && (
+          <a
+            className={styles.toggleDarkMode}
+            href='#'
+            role='button'
+            onClick={onToggleDarkMode}
+            title='Toggle dark mode'
+          >
+            {isDarkMode ? <IoMoonSharp /> : <IoSunnyOutline />}
           </a>
         )}
       </div>
