@@ -241,6 +241,9 @@ export const NotionPage: React.FC<types.PageProps> = ({
     getPageProperty<string>('Description', block, recordMap) ||
     config.description
 
+  const TOCON =
+    getPageProperty<boolean>('Show TOC', block, recordMap) && showTableOfContents
+
   return (
     <>
       <PageHead
@@ -268,7 +271,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
         fullPage={!isLiteMode}
         previewImages={!!recordMap.preview_images}
         showCollectionViewDropdown={false}
-        showTableOfContents={showTableOfContents}
+        showTableOfContents={TOCON}
         minTableOfContentsItems={minTableOfContentsItems}
         defaultPageIcon={config.defaultPageIcon}
         defaultPageCover={config.defaultPageCover}
