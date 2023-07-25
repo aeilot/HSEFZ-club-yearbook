@@ -60,3 +60,7 @@ body {
 ::-webkit-scrollbar-track {           
     background-color: var(--bg-color);
 }
+
+.notion-property-checkbox{
+  display: none;
+}
