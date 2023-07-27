@@ -54,6 +54,10 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
+      title: '分类',
+      pageId: 'fed1689f8fc34c0a8e66a4bafb39aa79'
+    },
+    {
       title: '关于本站',
       pageId: 'ba97bc8084944418a969c3df1ec12c97'
     }
