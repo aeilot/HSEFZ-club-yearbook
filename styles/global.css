@@ -69,4 +69,8 @@ body {
   header, aside{
     visibility: hidden;
   }
+
+  html{
+    font-family: sans-serif !important;
+  }
 }
