@@ -64,3 +64,9 @@ body {
 .notion-property-checkbox{
   display: none;
 }
+
+@media print{
+  header, aside{
+    visibility: hidden;
+  }
+}
