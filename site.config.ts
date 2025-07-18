@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '华东师大二附中社团年鉴',
-  domain: 'hsefz.aeilot.top',
+  domain: 'club.hsefz.aeilot.top',
   author: '华东师大二附中',
 
   // open graph metadata (optional)
