@@ -55,11 +55,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: '分类',
-      pageId: 'fed1689f8fc34c0a8e66a4bafb39aa79'
+      pageId: '23467fb78c45810194abc9105f1cd449'
     },
     {
       title: '关于本站',
-      pageId: 'ba97bc8084944418a969c3df1ec12c97'
+      pageId: '23467fb78c458108b2c5e0c8fea4c6a5'
     }
   ]
 })
