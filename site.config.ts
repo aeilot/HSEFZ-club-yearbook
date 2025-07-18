@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ec8bad00d7b94dc8ab831d27fdd642a6',
+  rootNotionPageId: '23467fb78c4580cc8c31e8e4b0345a77',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '华东师大二附中社团年鉴',
-  domain: 'hsefz.aeilot.top',
+  domain: 'club.hsefz.aeilot.top',
   author: '华东师大二附中',
 
   // open graph metadata (optional)
