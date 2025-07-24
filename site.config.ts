@@ -2,7 +2,8 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '23a67fb78c4580b297e2e7ab51053382',
+  rootNotionPageId: '23a67fb78c45801ba421d5a1e68bc0a0',
+  // rootNotionPageId: '23467fb78c4580cc8c31e8e4b0345a77',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -53,14 +54,14 @@ export default siteConfig({
   // navigationStyle: 'default'
   navigationStyle: 'custom',
   navigationLinks: [
-    // {
-    //   title: '社团年鉴',
-    //   pageId: '23467fb78c4580cc8c31e8e4b0345a77'
-    // },
-    // {
-    //   title: '部门年鉴',
-    //   pageId: '23467fb78c4580508cc9de72453b832f'
-    // },
+    {
+      title: '社团年鉴',
+      pageId: '23467fb78c4580cc8c31e8e4b0345a77'
+    },
+    {
+      title: '部门年鉴',
+      pageId: '23467fb78c4580508cc9de72453b832f'
+    },
     {
       title: '分类',
       pageId: '23a67fb78c4581009994ef2fcb2177bd'
