@@ -64,11 +64,11 @@ export default siteConfig({
     },
     {
       title: '分类',
-      pageId: '23a67fb78c4581009994ef2fcb2177bd'
+      pageId: '23a67fb78c4581bb93ddc6ae8d970e47'
     },
     {
       title: '关于本站',
-      pageId: '23a67fb78c4581e89712dfe01b6193ab'
+      pageId: '23a67fb78c4581489210d3526701b333'
     }
   ]
 })
