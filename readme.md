@@ -7,3 +7,4 @@ Made based on [Nextjs Notion Starter Kit](https://github.com/transitive-bullshit
 <!-- # 2025-8-7 update student union yearbook -->
 <!-- # 2025-8-7 update student union yearbook -->
 <!-- # 2025-8-11 update club yearbook -->
+<!-- # 2025-8-12 update club yearbook -->
