@@ -11,3 +11,4 @@ Made based on [Nextjs Notion Starter Kit](https://github.com/transitive-bullshit
 <!-- # 2025-8-12 update club yearbook -->
 <!-- # 2025-8-13 update club yearbook -->
 <!-- # 2025-8-17 update science association yearbook -->
+<!-- # 2025-8-17 update science association yearbook -->
