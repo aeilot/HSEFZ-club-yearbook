@@ -63,6 +63,10 @@ export default siteConfig({
       pageId: '23467fb78c4580508cc9de72453b832f'
     },
     {
+      title: '科协年鉴',
+      pageId: '25267fb78c4580a282eee527882ae338'
+    },
+    {
       title: '分类',
       pageId: '23a67fb78c4581bb93ddc6ae8d970e47'
     },
