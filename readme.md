@@ -16,3 +16,4 @@ Made based on [Nextjs Notion Starter Kit](https://github.com/transitive-bullshit
 <!-- # 2025-8-18 update science association yearbook -->
 <!-- # 2025-8-18 update science association yearbook -->
 <!-- # 2025-8-19 fix -->
+<!-- # 2025-8-24 fix -->
