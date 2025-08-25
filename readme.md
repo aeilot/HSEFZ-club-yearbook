@@ -18,3 +18,4 @@ Made based on [Nextjs Notion Starter Kit](https://github.com/transitive-bullshit
 <!-- # 2025-8-19 fix -->
 <!-- # 2025-8-24 fix -->
 <!-- # 2025-8-25 fix -->
+<!-- # 2025-8-25 update club yearbook -->
